@@ -20,3 +20,13 @@
   height: 535px;
   object-fit: cover;
 }
+
+@media (max-width: 480px) {
+  .home-title {
+    text-align: left;
+    max-width: 240px;
+    font-weight: 700;
+font-size: 28px;
+  }
+  }
+
